@@ -30,23 +30,11 @@
 
 <p>.  flutter_bloc : Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with package:bloc. </p>
 
- <p>. flutter_localizations:</p>
- <p>.   http</p>
-<p>.  carousel_slider</p>
-<p>.  share_plu</p>
-<p>.  clipboard</p>
-<p>.  audioplayers</p>
-<p>.  shared_preferences</p>
-<p>.  smooth_page_indicator</p>
-<p>.  flutter_launcher_icons</p>
-<p>.  intl: </p>
-  <p>. flutter_qiblah:</p>
-<p>.  geolocator: </p>
-<p>.  adhan: </p>
-<p>.  flutter_svg: </p>
- <p .State Management </p>
-<p> .Bloc: </p>
-</p>
+ <p>. flutter_localizations : How to track the device’s locale (the user’s preferred language). </p>
+ <p>. http : A composable, Future-based library for making HTTP requests.</p>
+<p>.  clipboard : A flutter package that helps copy text to clipboard and paste from clipboard.</p>
+<p>.  share_plus : A Flutter plugin to share content from your Flutter app via the platform's share dialog.</p>
+
 <p align="center">
 
 

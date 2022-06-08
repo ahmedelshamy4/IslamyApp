@@ -1,6 +1,5 @@
 ## islamy_app
-Shop store is the e-commerce application that show products.I applied all logic you can occurred on any commerce app such as cart items , filtering by price or product name , local favourite,local search,
-
+تطبيق قراّن كريم هو تطبيق  يمكنك من قراّة القراّن بشكل كامل بدون انترنت, تقدر من خلال التطبيق تسمع القراّن كامل بصوت اكثر من 15 شيخ. تقدر من خلال التطبيق تحدد اتجاه القبلة وكمان بيتم تحديد مواقيت الصلاة بناء على موقعك الحالي, تقدر تتصفح اكثر من 40 حديث و تقرأ جميع الاذكار. وتشغل الراديو وقنوات البث المباشر
 Please star ⭐ the repo if you like what you see😉.
 
 <img src="QuranScreens/boarding.jpeg" width="20%"></img>
@@ -15,12 +14,26 @@ Please star ⭐ the repo if you like what you see😉.
 <p align="center">
 ✨ Plugins and Concepts :
   
-<p>. Remote data from (https://student.valuxapps.com/api/) api source.</p>
-<p>. Authenticate with email and password, email verification and forget password.</p>
-<p>. Shimmer package to make custom loading animation.</p>
-<p>. Apis dio: </p>
-<p> .json_annotation </p>
-<p>. cached_network_image </p>
+<p>. Apis https: </p>
+dartz: ^0.10.1
+  equatable: 
+  flutter_bloc
+  flutter_compass
+  flutter_localizations:
+    sdk: flutter
+  http
+  carousel_slider
+  share_plu
+  clipboard
+  audioplayers
+  shared_preferences
+  smooth_page_indicator
+  flutter_launcher_icons
+  intl: 
+  flutter_qiblah:
+  geolocator: 
+  adhan: 
+  flutter_svg: 
  <p .State Management </p>
 <p> .Bloc: </p>
 </p>

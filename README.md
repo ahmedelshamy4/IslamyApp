@@ -20,11 +20,11 @@
   <p>apiAzkar:https://github.com/osamayy/azkar-db/blob/master/azkar.json</p>
   <p>apiNawawi:https://github.com/osamayy/40-hadith-nawawi-db/blob/main/40-hadith-nawawi.json</p>
   
- ##Package: 
+ #Package: 
   
-<p>. dartz: ^0.10.1</p>
- <p>. equatable: </p>
-<p>.  flutter_bloc</p>
+<p>. audioplayers : A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web. </p>
+ <p>. carousel_slider :A carousel slider widget. </p>
+<p>. equatable : Simplify Equality Comparisons. </p>
 <p>.  flutter_compass</p>
  <p>. flutter_localizations:</p>
  <p>.   http</p>

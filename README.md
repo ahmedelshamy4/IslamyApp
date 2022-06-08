@@ -23,9 +23,13 @@
  #Package: 
   
 <p>. audioplayers : A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web. </p>
+
  <p>. carousel_slider :A carousel slider widget. </p>
+ 
 <p>. equatable : Simplify Equality Comparisons. </p>
-<p>.  flutter_compass</p>
+
+<p>.  flutter_bloc : Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with package:bloc. </p>
+
  <p>. flutter_localizations:</p>
  <p>.   http</p>
 <p>.  carousel_slider</p>

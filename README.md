@@ -1,6 +1,6 @@
 ## islamy_app
 يحتوي التطبيق علي القرآن الكريم واذاعات القران واذكار الصباح والمساء وبعض الادعية الذي يحتاجها المسلم في حياته وايضا مواقيت الصلاة واتجاه القبلة وكتاب الاربعون النووية
-# The application contains the Noble Qur’an, Qur’an radio stations, morning and evening remembrances, and some supplications that a Muslim needs in his life, as well as prayer times, the direction of the qiblah, and the Forty-Nawawi book
+## The application contains the Noble Qur’an, Qur’an radio stations, morning and evening remembrances, and some supplications that a Muslim needs in his life, as well as prayer times, the direction of the qiblah, and the Forty-Nawawi book
  
  Please star ⭐ the repo if you like what you see😉.
 
@@ -15,7 +15,7 @@
 
 <p align="center">
 ✨ Plugins and Concepts :
-  
+  <p>api: http://api.alquran.cloud/v1/quran/quran-uthmani</p>
  Apis https: 
   
 <p>. dartz: ^0.10.1</p>

@@ -15,7 +15,8 @@ Please star ⭐ the repo if you like what you see😉.
 <p align="center">
 ✨ Plugins and Concepts :
   
-<p>. Apis https: </p>
+ Apis https: 
+  
 <p>. dartz: ^0.10.1</p>
  <p>. equatable: </p>
 <p>.  flutter_bloc</p>

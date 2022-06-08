@@ -40,11 +40,4 @@ Please star ⭐ the repo if you like what you see😉.
 </p>
 <p align="center">
 
-<p align="center">
-  
-✨ App Features :
-  
-<p>.Search bar for searching about any product.</p>
-<p>.Possibility to save favorite product.</p>
 
-</p>
